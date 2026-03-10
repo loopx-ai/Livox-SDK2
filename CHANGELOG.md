@@ -1,6 +1,11 @@
 # Changelog
 
 All notable changes to Livox-SDK2 will be documentd in this file.
+## [1.3.0]
+### Added
+
+- Support Mid-360s Lidar.
+
 ## [1.2.5]
 ### Added
 
